@@ -40,7 +40,7 @@
       "core-js": "npm:core-js@^2.1.0"
     },
     "overrides": {
-      "npm:core-js@2.0.3": {
+      "npm:core-js@2.4.1": {
         "main": "client/shim.min"
       }
     }
